@@ -1,0 +1,168 @@
+
+body{
+  margin: 0;
+  padding:0;
+  font-family: "Montserrat", serif;
+   font-optical-sizing: auto;
+   font-weight: 700;
+   font-style: normal;
+ }
+
+#title {
+ font-family: "Montserrat", serif;
+ color:rgb(255, 255, 255);
+}
+.container-fluid{
+ padding:3% 15%;
+}
+h1{
+ font-family: "Montserrat", serif;
+ font-weight: bold;
+ font-size: 3rem;
+ line-height: 1.5;
+ color:rgb(255, 255, 255);
+ text-align: center
+}
+h2{
+ font-family: "Montserrat", serif;
+ font-weight: bold;
+ font-size: 3rem;
+ line-height: 1.5;
+ color:rgb(255, 255, 255);
+ text-align: center
+}
+h3{
+ font-family: "Montserrat";
+ font-weight: bold;
+ text-align: center;
+ color:rgb(255, 255, 255);
+
+}
+p{
+ color:rgb(255, 255, 255);
+ text-align: center;
+ font-size: 2rem;
+}
+.navbar {
+ padding: 0 0 1rem;
+ transition-duration: 0.8s;
+ background-color: #9CA986;
+}
+.navbar ul li a {
+ color:rgb(255, 255, 255);
+}
+.scroll_navbar{
+  padding: 10px 0px;
+  box-shadow: 0px 1px 10px rgba(0,0,0,0.4);
+  transition-duration: 0.8s;
+}
+.navbar-brand{
+ font-family: "Open Sans", sans-serif;
+ font-size: 2.5rem;
+ font-weight: 200;
+ color:rgb(255, 255, 255);
+}
+.nav-item {
+padding:0 18px ;
+}
+.navbar-link{
+ font-family: "Open Sans", sans-serif;
+ font-size: 1.2rem;
+ font-weight: 100;
+ color:rgb(255, 255, 255);
+ 
+}
+.title-image{
+ width: 60%;
+ transform: rotate(20deg);
+ position: absolute;
+}
+ #media screen {max-width: 1028px;
+ }
+   #title{
+     text-align: center;
+   }
+   .title-image{
+     position:static;
+   }
+#aboutme {
+padding: 7% 15%;
+background-color: #C9DABF;
+text-align: center;
+}
+.aboutme-box{
+ text-align: center;
+ padding: 20%;
+}
+.h4-aboutme{
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+ color:rgb(255, 255, 255);
+ text-align: left;
+}
+.evelyn-magdalenoimg{
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  padding-bottom: 5%;
+  width: 50%;
+}
+
+.carousel-item{
+ height: 400px;
+}
+#experience{
+font-family: "Open Sans", sans-serif;
+ padding: 1% 5%;
+ text-align: center;
+ background-color: #C9DABF;
+  font-size: 3rem;
+  font-weight: 200;
+  color:rgb(255, 255, 255);
+  
+}
+.experience-image{
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.h4-aboutme{
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+ color:rgb(255, 255, 255);
+ text-align: left;
+}
+#contact{
+ background-color: #C9DABF;
+ padding:7% 15%;
+ text-align: center;
+}
+.contact-heading{
+ font-family: "Open Sans", sans-serif;
+ font-weight: bold;
+ font-size: 3.5rem;
+ line-height: 1.5;
+ text-align: center;
+}
+.contact-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#footer{
+  font-family: "Open Sans", serif;
+ padding: 7% 15%;
+text-align: center;
+background-color: #C9DABF;
+font-weight: 100;
+color:rgb(255, 255, 255);
+}
+#work{
+ padding:3% 2%;
+ text-align: center;
+background-color: #C9DABF;
+text-align: center;
+color:rgb(255, 255, 255) ;
+}
